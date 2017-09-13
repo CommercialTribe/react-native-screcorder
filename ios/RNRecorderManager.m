@@ -1,9 +1,9 @@
 #import "RNRecorderManager.h"
 #import "RNRecorder.h"
 
-#import "RCTBridge.h"
-#import "RCTEventDispatcher.h"
-#import "UIView+React.h"
+#import <React/RCTBridge.h>
+#import <React/RCTEventDispatcher.h>
+#import <React/UIView+React.h>
 
 @implementation RNRecorderManager
 {
